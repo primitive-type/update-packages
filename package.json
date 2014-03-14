@@ -1,0 +1,13 @@
+{
+  "name": "update-packages",
+  "main": "./lib/update-packages",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Runs `apm upgrade` for the current project",
+  "repository": "https://github.com/primitive-type/update-packages",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.39.0"
+  },
+  "dependencies": {}
+}
