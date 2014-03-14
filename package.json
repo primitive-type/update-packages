@@ -1,7 +1,7 @@
 {
   "name": "update-packages",
   "main": "./lib/update-packages",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "private": true,
   "description": "Runs `apm upgrade` to update all Atom packages",
   "repository": "https://github.com/primitive-type/update-packages",
