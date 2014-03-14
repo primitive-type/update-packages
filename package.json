@@ -3,7 +3,7 @@
   "main": "./lib/update-packages",
   "version": "0.0.0",
   "private": true,
-  "description": "Runs `apm upgrade` for the current project",
+  "description": "Runs `apm upgrade` to update all Atom packages",
   "repository": "https://github.com/primitive-type/update-packages",
   "license": "MIT",
   "engines": {
